@@ -7,11 +7,11 @@ Este documento sirve como índice y pequeña introducción a las técnicas estad
 
 Existen técnicas estadísticas para comparar una variable con una determinada tendencia central. Cuando la variable se distribuya normalmente y las observaciones sean independientes, el estadístico con el cual compararemos la tendencia central será la [media](https://es.wikipedia.org/wiki/Media_aritm%C3%A9tica) y aplicaremos la **T de Student para una muestra**, cuando no podamos asumir este supuesto, el estadístico que utilizaremos será la [mediana](https://es.wikipedia.org/wiki/Mediana_(estad%C3%ADstica)), aplicando la **W de Wilcoxon para una muestra**.
 
-Asumiendo normalidad
-* Aplicación de la [T de Student para una muestra](http://htmlpreview.github.io/?https://github.com/ManuelOrdovasAnalyst/TStudentOneSample/blob/master/T%20de%20Student%20para%20una%20muestra.nb.html)
+Asumiendo normalidad:
+* Aplicación de la [T de Student para una muestra](http://htmlpreview.github.io/?https://github.com/ManuelOrdovasAnalyst/TStudentOneSample/blob/master/T%20de%20Student%20para%20una%20muestra.nb.html).
 
-No asumiendo normalidad
-* Aplicación de la [W de Wilcoxon para una muestra](http://htmlpreview.github.io/?https://github.com/ManuelOrdovasAnalyst/WilcoxonOneSample/blob/master/Prueba%20de%20Wilcoxon%20para%20una%20muestra.nb.html)
+No asumiendo normalidad:
+* Aplicación de la [W de Wilcoxon para una muestra](http://htmlpreview.github.io/?https://github.com/ManuelOrdovasAnalyst/WilcoxonOneSample/blob/master/Prueba%20de%20Wilcoxon%20para%20una%20muestra.nb.html).
 
 ---------------
 2. El curso se irá ampliando poco a poco, abierto a sugerencias de contenido. se añadirá:
